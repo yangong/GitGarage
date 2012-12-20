@@ -1,4 +1,3 @@
 GitGarage
 =========
-ello
-Another change
+Hello. This is a sample project for git tutorial.
