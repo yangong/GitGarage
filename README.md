@@ -1,4 +1,4 @@
 GitGarage
 =========
-Hello
+ello
 Another change
